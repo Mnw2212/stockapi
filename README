@@ -1,0 +1,16 @@
+## ====================================================================##
+
+File :
+	Stock_api.py
+Web link :
+	main - http://rocode.pythonanywhere.com
+	stock - http://rocode.pythonanywhere.com/quote?sto=SUNPHARMA&exc=NSE
+
+Result :
+	JSON :
+		[ { "id": "677258" ,"t" : "SUNPHARMA" ,"e" : "NSE" ,"l" : "904.00" ,"l_fix" : "904.00" ,"l_cur" : "Rs.904.00" ,"s": "0" ,"ltt":"3:40PM GMT+5:30" ,"lt" : "Oct 19, 3:40PM GMT+5:30" ,"lt_dts" : "2015-10-19T15:40:35Z" ,"c" : "+14.55" ,"c_fix" : "14.55" ,"cp" : "1.64" ,"cp_fix" : "1.64" ,"ccol" : "chg" ,"pcls_fix" : "889.45" } ]
+
+
+
+## ====================================================================##
+
